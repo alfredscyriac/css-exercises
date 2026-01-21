@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.oddelement{
+    background-color: rgb(221, 122, 122);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#bluetext {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenbg {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
